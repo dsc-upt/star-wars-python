@@ -22,7 +22,7 @@ Tipuri built-in:
 cat = "Anakin"
 
 print(cat.lower())
-# type = returneaza ipul variabilei
+# type = returneaza tipul variabilei
 
 cat = 4
 print(type(cat))
@@ -35,5 +35,5 @@ print(45//4) #impartire fara rest
 def function():
     print("hello")
 
-    
+
 function()
