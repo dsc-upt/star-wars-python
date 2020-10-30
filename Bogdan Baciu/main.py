@@ -1,5 +1,9 @@
-def main():
-    print("Hello World!")
+paste = "spaghete"
+print(paste)
 
-if __name__ == "__main__":
-    main()
+paste =2
+print(type(paste))
+
+print(4 ** paste)
+print(16 / 4)
+print(16 // 3)
