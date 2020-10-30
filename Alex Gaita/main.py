@@ -21,7 +21,7 @@ print(type(cat))
 print(4 * 5)
 print(3 ** 4)
 print(14 / 23)
-print(45 // 4)
+print(45 //4)
 
 
 
