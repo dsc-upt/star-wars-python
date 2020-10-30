@@ -22,14 +22,17 @@ Tipuri built-in:
 
 print(4 * 5)
 print(3 ** 4)
-print(14/23)
+print(14 / 23)
 print(45 // 4)
 
 
-def function ():
+def function():
     abracadabra = "something"
     print('hello')
     print(abracadabra)
 
 
-function()
+integer_var = int('5')
+float_var = float('6.8')
+print(integer_var)
+print(float_var)
