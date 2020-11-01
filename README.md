@@ -10,6 +10,6 @@
 
 * Push your changes to GitHub
 
-* ```cd "numele vostru"``` (Windows) or ```cd Numele\ Vostru```(Linux)
+* ```cd "Matei Rares"```
 
 * ```python main.py```
