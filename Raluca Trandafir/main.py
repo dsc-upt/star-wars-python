@@ -84,3 +84,4 @@ print(elements[5:2:-1])
 
 print(elements * 3) # printeaza de 3 ori aceasta lista
 print("elements" * 3)
+print("I am writing in pythoon hoho" )
